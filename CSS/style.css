@@ -1,0 +1,61 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+body {
+    background-color: black;
+}
+
+
+
+.nav-linkjes:hover {
+    background-color: rgba(36, 55, 83, 1) !important;
+}
+
+.hero-body {
+    background-image: url(jellyfish.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section {
+    background-color: rgba(46, 62, 85, 1);
+}
+
+.title {
+    color: white;
+}
+
+.subtitle {
+    color: white;
+}
+
+.button {
+    background-color:rgba(83, 116, 159, 1);
+    color: white;
+    border-color: rgba(83, 116, 159, 1);
+}
+
+.button:hover {
+    color: white;
+}
+
+.columns {
+    background-color:  rgba(46, 62, 85, 1);
+}
+
+.column {
+    color: white;
+}
+
+.product {
+    text-align: center;
+}
+
+.footer {
+    background-color: rgba(36, 55, 83, 1);
+    color: white;
+}
+
+a {
+    color: white;
+}
